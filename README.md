@@ -39,15 +39,23 @@
 
 ## How to reach me:
 
-[![discord](https://img.shields.io/badge/discord-marinella_g-blue?logo=discord)](https://discord.com/users/marinella_g)
-<br>
-[![Email](https://img.shields.io/badge/email-marigola%40mail.ru-red?logo=Gmail)](mailto:marigola@mail.ru)
-<br>
-[![Telegram Badge](https://img.shields.io/badge/telegram-marina_gapeyeva-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/marina_gapeyeva)
+<a href="https://discord.com/users/marinella_g" target="_blank">
+    <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
+</a>
+<a href="mailto:marigola@mail.ru" target="_blank">
+    <img alt="Email" title="Write me on Mail" src="https://img.shields.io/badge/Email-%237289DA.svg?logo=Gmail&logoColor=white" height="30"/>
+</a>
+<a href="https://t.me/marina_gapeyeva" target="_blank">
+    <img alt="Telegram" title="Write me on Telegram" src="https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white" height="30"/>
+</a>
 <!--
 **Marigza/Marigza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+[![discord](https://img.shields.io/badge/discord-marinella_g-blue?logo=discord)](https://discord.com/users/marinella_g)
+[![Email](https://img.shields.io/badge/email-marigola%40mail.ru-red?logo=Gmail)](mailto:marigola@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/telegram-marina_gapeyeva-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/marina_gapeyeva)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
