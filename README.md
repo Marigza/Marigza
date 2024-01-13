@@ -39,7 +39,7 @@
 
 ## How to reach me:
 
-[![discord](https://img.shields.io/badge/discord-marinella_G-blue?logo=discord)](https://discord.com/users/marinella_G)
+[![discord](https://img.shields.io/badge/discord-marinella_g-blue?logo=discord)](https://discord.com/users/marinella_g)
 <br>
 [![Email](https://img.shields.io/badge/email-marigola%40mail.ru-red?logo=Gmail)](mailto:marigola@mail.ru)
 <br>
