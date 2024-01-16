@@ -37,6 +37,10 @@
 ## My codewars: 
 [![image](https://www.codewars.com/users/rsschool_81f88515f8632de9/badges/small)](https://www.codewars.com/users/rsschool_81f88515f8632de9)
 
+## My English level: B1
+
+[Certificate](./assets/EF_SET_Certificate.pdf)
+
 ## How to reach me:
 
 <a href="mailto:marigola@mail.ru" target="_blank">
