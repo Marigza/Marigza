@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## My codewars: 
-[![image](https://www.codewars.com/users/rsschool_81f88515f8632de9/badges/small)](https://www.codewars.com/users/rsschool_81f88515f8632de9)
+[![image](https://www.codewars.com/users/marigza/badges/small)](https://www.codewars.com/users/marigza)
 
 ## My English level: B1
 
