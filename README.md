@@ -37,6 +37,12 @@
 ## My codewars: 
 [![image](https://www.codewars.com/users/marigza/badges/small)](https://www.codewars.com/users/marigza)
 
+## My Education
+
+[JavaScript/Frontend](./assets/mjmma5wr.pdf)
+
+[Angular](./assets/razw5vki.pdf)
+
 ## My English level: B1
 
 [Certificate](./assets/EF_SET_Certificate.pdf)
