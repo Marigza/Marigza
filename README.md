@@ -2,17 +2,6 @@
 
 <h3 align="center">Frontend Engineer from Russia</h3>
 
-## My trophy
-<p>
-  <img height="100em" src="https://github-profile-trophy.vercel.app/?username=marigza" />
-</p>
-
-## My Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marigza" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marigza&layout=compact" />
-</p>
-
 ## Use to code
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -43,6 +32,8 @@
 
 [Angular](./assets/razw5vki.pdf)
 
+[Node JS]()
+
 ## My English level: B1
 
 [Certificate](./assets/EF_SET_Certificate.pdf)
@@ -55,17 +46,4 @@
 <a href="https://t.me/marina_gapeyeva" target="_blank">
     <img alt="Telegram" title="Write me on Telegram" src="https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white" height="30"/>
 </a>
-<!--
-**Marigza/Marigza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
