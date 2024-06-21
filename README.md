@@ -32,7 +32,7 @@
 
 [Angular](./assets/razw5vki.pdf)
 
-[Node JS]()
+[Node JS](./assets/smiq2izm.pdf)
 
 ## My English level: B1
 
